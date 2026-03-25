@@ -1,0 +1,121 @@
+Customer_ID,Age,Monthly_Income_USD,Annual_Appliance_Spend_USD,Purchase_Frequency_Per_Year,Smart_Feature_Interest_1_10,Energy_Saving_Interest_1_10,Preferred_Appliance_Item,Segment_Label
+C1001,42,2256,132,3,2,4,Fan,Budget Buyers
+C1002,45,2219,466,1,4,3,Electric Kettle,Budget Buyers
+C1003,24,2695,239,1,2,7,Mixer Grinder,Budget Buyers
+C1004,29,3639,421,3,1,4,Mixer Grinder,Budget Buyers
+C1005,32,2938,199,2,3,3,Electric Kettle,Budget Buyers
+C1006,34,2196,303,3,3,3,Mixer Grinder,Budget Buyers
+C1007,39,2311,592,4,1,7,Iron,Budget Buyers
+C1008,42,3281,415,2,1,3,Fan,Budget Buyers
+C1009,31,2126,557,2,1,6,Iron,Budget Buyers
+C1010,36,3294,203,3,3,4,Iron,Budget Buyers
+C1011,44,2092,431,2,2,4,Mixer Grinder,Budget Buyers
+C1012,34,2905,593,2,3,3,Fan,Budget Buyers
+C1013,23,3092,325,3,1,4,Microwave,Budget Buyers
+C1014,44,3088,228,4,4,6,Fan,Budget Buyers
+C1015,30,2371,246,3,4,7,Mixer Grinder,Budget Buyers
+C1016,33,2698,190,4,1,3,Electric Kettle,Budget Buyers
+C1017,26,2455,525,4,1,6,Mixer Grinder,Budget Buyers
+C1018,41,3717,390,3,1,3,Microwave,Budget Buyers
+C1019,30,3193,177,3,4,4,Mixer Grinder,Budget Buyers
+C1020,22,2878,376,2,1,5,Microwave,Budget Buyers
+C1021,41,2614,198,3,2,7,Microwave,Budget Buyers
+C1022,22,3127,370,1,1,5,Iron,Budget Buyers
+C1023,29,2037,243,1,1,6,Electric Kettle,Budget Buyers
+C1024,39,2315,185,4,2,5,Microwave,Budget Buyers
+C1025,41,3533,228,2,3,6,Iron,Budget Buyers
+C1026,36,3919,351,1,2,4,Electric Kettle,Budget Buyers
+C1027,32,1886,421,2,2,3,Electric Kettle,Budget Buyers
+C1028,44,2041,237,1,1,5,Electric Kettle,Budget Buyers
+C1029,38,2774,262,4,2,7,Fan,Budget Buyers
+C1030,45,4138,415,4,2,6,Mixer Grinder,Budget Buyers
+C1031,34,3386,698,5,5,7,Water Purifier,Family Essentials
+C1032,42,6538,610,2,3,7,Microwave,Family Essentials
+C1033,31,4018,892,3,6,5,Water Purifier,Family Essentials
+C1034,33,4140,1447,3,3,7,Vacuum Cleaner,Family Essentials
+C1035,31,3207,530,2,4,5,Water Purifier,Family Essentials
+C1036,43,4971,937,5,3,5,Water Purifier,Family Essentials
+C1037,28,4599,1043,5,5,7,Vacuum Cleaner,Family Essentials
+C1038,49,5942,1496,3,4,6,Washing Machine,Family Essentials
+C1039,29,5372,624,4,3,4,Vacuum Cleaner,Family Essentials
+C1040,43,5059,1587,3,3,8,Refrigerator,Family Essentials
+C1041,33,3280,639,3,6,4,Vacuum Cleaner,Family Essentials
+C1042,35,5371,581,2,6,8,Vacuum Cleaner,Family Essentials
+C1043,44,4295,1034,3,5,5,Microwave,Family Essentials
+C1044,40,3536,1114,5,5,4,Refrigerator,Family Essentials
+C1045,42,5544,704,2,4,8,Microwave,Family Essentials
+C1046,32,6822,1214,2,4,6,Microwave,Family Essentials
+C1047,33,4794,1119,2,5,4,Washing Machine,Family Essentials
+C1048,36,3472,719,3,5,6,Vacuum Cleaner,Family Essentials
+C1049,34,5939,1202,3,5,8,Water Purifier,Family Essentials
+C1050,36,6708,604,2,6,6,Refrigerator,Family Essentials
+C1051,28,4366,767,4,4,7,Vacuum Cleaner,Family Essentials
+C1052,50,4751,519,2,3,5,Vacuum Cleaner,Family Essentials
+C1053,29,6418,1256,3,6,5,Refrigerator,Family Essentials
+C1054,37,4493,581,4,4,5,Refrigerator,Family Essentials
+C1055,39,6195,1332,3,4,5,Washing Machine,Family Essentials
+C1056,41,3101,867,4,6,5,Microwave,Family Essentials
+C1057,33,6225,721,5,3,7,Washing Machine,Family Essentials
+C1058,34,6344,1442,4,5,5,Washing Machine,Family Essentials
+C1059,28,5703,895,5,5,6,Refrigerator,Family Essentials
+C1060,52,4143,1219,5,5,4,Refrigerator,Family Essentials
+C1061,34,7962,3778,5,7,5,Smart Oven,Smart Home Premium
+C1062,39,9331,2684,6,7,8,Smart Oven,Smart Home Premium
+C1063,32,8586,1581,6,7,9,Smart Oven,Smart Home Premium
+C1064,47,12393,4146,4,9,8,Air Conditioner,Smart Home Premium
+C1065,47,9204,3952,5,7,7,Smart Oven,Smart Home Premium
+C1066,35,11963,3072,5,10,7,Smart Oven,Smart Home Premium
+C1067,30,8071,3122,6,8,9,Smart Oven,Smart Home Premium
+C1068,35,9826,3644,3,9,7,Dishwasher,Smart Home Premium
+C1069,39,12936,3775,7,9,8,Smart Refrigerator,Smart Home Premium
+C1070,40,12034,2275,7,10,6,Air Conditioner,Smart Home Premium
+C1071,35,10722,4119,7,9,5,Dishwasher,Smart Home Premium
+C1072,47,9042,2320,4,8,5,Air Conditioner,Smart Home Premium
+C1073,33,10392,3903,3,10,8,Smart Oven,Smart Home Premium
+C1074,32,12384,2972,6,10,6,Dishwasher,Smart Home Premium
+C1075,46,12133,1422,3,10,6,Dishwasher,Smart Home Premium
+C1076,48,10743,3302,3,8,5,Smart Refrigerator,Smart Home Premium
+C1077,30,13065,3303,7,9,8,Smart Oven,Smart Home Premium
+C1078,42,9995,3644,6,8,8,Smart Refrigerator,Smart Home Premium
+C1079,34,12658,2412,5,10,6,Robot Vacuum,Smart Home Premium
+C1080,40,7134,2570,4,9,7,Robot Vacuum,Smart Home Premium
+C1081,43,7160,1966,4,8,8,Dishwasher,Smart Home Premium
+C1082,48,8252,1663,6,10,7,Smart Oven,Smart Home Premium
+C1083,40,9906,1655,4,10,8,Smart Oven,Smart Home Premium
+C1084,48,6660,3758,6,10,5,Robot Vacuum,Smart Home Premium
+C1085,35,12672,2997,6,8,8,Dishwasher,Smart Home Premium
+C1086,34,10070,3389,3,10,7,Smart Refrigerator,Smart Home Premium
+C1087,31,13385,3314,4,7,8,Smart Oven,Smart Home Premium
+C1088,44,11931,1511,3,10,6,Smart Refrigerator,Smart Home Premium
+C1089,31,6911,2465,6,9,6,Smart Refrigerator,Smart Home Premium
+C1090,36,9264,2952,5,10,7,Air Conditioner,Smart Home Premium
+C1091,39,2958,1504,2,6,8,Inverter AC,Eco Conscious
+C1092,48,8139,482,2,5,8,Inverter AC,Eco Conscious
+C1093,43,4048,888,3,7,10,Inverter AC,Eco Conscious
+C1094,42,4585,1352,4,6,8,Air Purifier,Eco Conscious
+C1095,43,3738,735,4,4,10,Inverter AC,Eco Conscious
+C1096,33,7516,1787,5,7,10,Energy Star Refrigerator,Eco Conscious
+C1097,26,7650,1684,3,4,10,Induction Cooker,Eco Conscious
+C1098,45,7718,647,2,6,10,Front Load Washer,Eco Conscious
+C1099,45,5835,541,4,4,9,Front Load Washer,Eco Conscious
+C1100,27,6351,1141,5,5,9,Energy Star Refrigerator,Eco Conscious
+C1101,47,7074,1732,4,8,10,Front Load Washer,Eco Conscious
+C1102,38,6368,1613,4,6,8,Inverter AC,Eco Conscious
+C1103,32,6492,899,5,8,10,Front Load Washer,Eco Conscious
+C1104,34,3035,1412,4,5,9,Energy Star Refrigerator,Eco Conscious
+C1105,35,4916,1097,4,8,10,Induction Cooker,Eco Conscious
+C1106,41,2883,1458,3,4,8,Front Load Washer,Eco Conscious
+C1107,39,7348,892,5,7,9,Inverter AC,Eco Conscious
+C1108,26,5210,853,5,5,9,Air Purifier,Eco Conscious
+C1109,35,6676,1533,4,7,10,Air Purifier,Eco Conscious
+C1110,34,5682,1329,4,6,9,Energy Star Refrigerator,Eco Conscious
+C1111,27,4377,1046,2,8,10,Energy Star Refrigerator,Eco Conscious
+C1112,30,4572,1391,4,8,10,Air Purifier,Eco Conscious
+C1113,33,3623,797,4,5,9,Energy Star Refrigerator,Eco Conscious
+C1114,33,2915,1493,3,6,8,Inverter AC,Eco Conscious
+C1115,41,5193,658,5,4,8,Air Purifier,Eco Conscious
+C1116,33,6645,1380,5,6,8,Inverter AC,Eco Conscious
+C1117,32,6713,633,2,7,9,Inverter AC,Eco Conscious
+C1118,42,7956,509,3,5,10,Induction Cooker,Eco Conscious
+C1119,26,4833,642,5,8,10,Air Purifier,Eco Conscious
+C1120,31,7080,1179,5,7,9,Air Purifier,Eco Conscious
